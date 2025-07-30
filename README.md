@@ -1,6 +1,6 @@
 # Hell bigma
 This theme is based on this:
-![image](boat.png)
+![image](https://w.wallhaven.cc/full/rq/wallhaven-rq75r7.jpg)
 image
 
 # installation
