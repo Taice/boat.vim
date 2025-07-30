@@ -3,6 +3,9 @@ This theme is based on this:
 ![image](https://w.wallhaven.cc/full/rq/wallhaven-rq75r7.jpg)
 image
 
+## looks like this
+![image](boat.png)
+
 # installation
 with your package manager just add
 ```
